@@ -1,10 +1,10 @@
-# bikatr7.github.io
+# ktbilyeu.github.io
 
-Welcome to the repository for my personal website, [bikatr7.github.io](https://bikatr7.github.io). This site is a central hub for my online presence and showcases my work, skills, and professional interests.
+Welcome to the repository for my personal website, [ktbilyeu.github.io](https://ktbilyeu.github.io). This site is a central hub for my online presence and showcases my work, skills, and professional interests.
 
 ## Archive Note
 
-This website has been archived and is no longer being maintained. I have moved to a new website, [kadenbilyeu.com](https://kadenbilyeu.com), which is built with React and hosted on Cloudflare Pages. The source code for the new website can be found [here](https://github.com/bikatr7/kadenbilyeu.com).
+This website has been archived and is no longer being maintained. I have moved to a new website, [kadenbilyeu.com](https://kadenbilyeu.com), which is built with React and hosted on Cloudflare Pages. The source code for the new website can be found [here](https://github.com/ktbilyeu/kadenbilyeu.com).
 
 ## A Preface
 
@@ -41,8 +41,8 @@ This site is built with [Jekyll](https://jekyllrb.com/), and hosted on [GitHub P
 To set up a local copy of this website, follow these steps:
 
 ```shell
-git clone https://github.com/bikatr7/bikatr7.github.io.git
-cd bikatr7.github.io
+git clone https://github.com/ktbilyeu/ktbilyeu.github.io.git
+cd ktbilyeu.github.io
 bundle install
 bundle exec jekyll serve
 ```
@@ -55,7 +55,7 @@ I welcome contributions to my site and corrections to any inaccuracies found on 
 
 ## License
 
-This site (bikatr7.github.io) is licensed under the GNU General Public License (GPL). You can find the full text of the license in the [LICENSE](License.md) file.
+This site (ktbilyeu.github.io) is licensed under the GNU General Public License (GPL). You can find the full text of the license in the [LICENSE](License.md) file.
 
 The GPL is a copyleft license that promotes the principles of open-source software. It ensures that any derivative works based on this project must also be distributed under the same GPL license. This license grants you the freedom to use, modify, and distribute the software.
 
